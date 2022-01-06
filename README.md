@@ -1,5 +1,7 @@
 # Resume (Natural Language Processing) 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgQ7l6dGuuK1r7RsvmaAJ09tA8rrQaLP47g&usqp=CAU
+<img src ="https://nespclimate.com.au/wp-content/uploads/2018/06/feature_BoM-storm30.jpg" 
+width="900">
+
 
 ## Introduction:
 
